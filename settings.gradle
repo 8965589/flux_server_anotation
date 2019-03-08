@@ -1,0 +1,6 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+    }
+}
+rootProject.name = 'flux_server_anotation'
